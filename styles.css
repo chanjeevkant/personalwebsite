@@ -1,0 +1,88 @@
+
+.myname{
+  color: #03506f;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+  position: absolute;
+  top: 100px;
+  left: 38%;
+margin: 0;
+
+}
+.heading2{
+  padding-top: 20px;
+  position: absolute;
+  left: 45%;
+margin: 0;
+font-weight: normal;
+}
+
+.introcontainer{
+  background-color: #ccf2f4;
+  padding-top: 12%;
+}
+body{
+    margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+.mountain{
+width: 60%
+
+}
+.topcloud{
+  position: absolute;
+  top: 10px;
+}
+.bottomcloud{
+position: absolute;
+}
+.container2{
+
+}
+.container3{
+
+}
+.container4{
+position: relative;
+bottom: 80px;
+}
+.jokerimage{
+
+  padding-top: 10px;
+}
+.maincontainer{
+  background-color: #f5f4f4;
+}
+.bioheading{
+  position: relative;
+  text-align: left;
+}
+.insidebio{
+  position: relative;
+  right: 300px;
+  bottom: 170px;
+}
+.profileimage{
+width: 10%;
+position: relative;
+right: 500px;
+}
+.skillimage{
+  width: 10%;
+  position: relative;
+  left: 100px;
+ bottom: 20px;
+
+}
+.insdieskills{
+  position: relative;
+  left: 300px;
+  bottom: 170px
+}
+.letschat{
+  background-color: #ffb4b4;
+  width: 10%;
+  position: relative;
+  left: 700px;
+}
